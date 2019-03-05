@@ -1,0 +1,30 @@
+insert into sss (Surname,Other_Names,Gender,Session,Term,Class," +
+
+                    "Mathematics_CA,Mathematics_Exam,Mathematics,Mathematics_Rem," +
+                    "English_Language_CA,English_Language_Exam,English_Language,English_Language_Rem," +
+                    "Biology_CA,Biology_Exam,Biology,Biology_Rem," +
+                    "Economics CA,Economics Exam,Economics,Economics Rem," +
+                    "Further_Maths_CA,Further_Maths_Exam,Further_Maths,Further_Maths_Rem," +
+
+                    "Agric_Science_CA,Agric_Science_Exam,Agric_Science,Agric_Science_Rem," +
+                    "Commerce_CA,Commerce_Exam,Commerce,Commerce_Rem," +
+                    "Civic_Ed_CA,Civic_Ed_Exam,Civic_Ed,Civic_Ed_Rem," +
+                    "Computer_CA,Computer_Exam,Computer,Computer_Rem," +
+
+                    "Lit_In_Eng_CA,Lit_In_Eng Exam,Lit_In_Eng,Lit_In_Eng_Rem," +
+                    "Government_CA,Government_Exam,Government,Government_Rem," +
+                    "Office_Practice_CA,Office_Practice_Exam,Office_Practice,Office_Practice_Rem," +
+                    "Chemistry_CA,Chemistry_Exam,Chemistry,Chemistry_Rem," +
+                     "Physics_CA,Physics_Exam,Physics,Physics_Rem," +
+                      "Geography_CA,Geography_Exam,Geography,Geography_Rem," +
+                      "Accounting_CA,Accounting_Exam,Accounting,Accounting_Rem," +
+                      "TD_CA,TD_Exam,TD,TD_Rem," +
+                      "Catering_CA,Catering_Exam,Catering,Catering_Rem," +
+                      "Animal_Hus_CA,Animal_Hus_Exam,Animal_Hus,Animal_Hus_Rem," +
+                      "Paint_Decor_CA,Paint_Decor_Exam,Paint_Decor,Paint_Decor_Rem," +
+
+                    "Yoruba_CA,Yoruba_Exam,Yoruba,Yoruba_Rem," +
+                    "CRS_CA,CRS_Exam,CRS,CRS_Rem," +
+                    "IRS_CA,IRS_Exam,IRS,IRS_Rem,Average,Subj_Offered,Teacher,Principal,"+
+                    "Punctuality,Attendance,Reliability,Politeness,Honesty,Self_Control,Staff_Rship,Student_Rship,"+
+                    "Initiative,OrgAbility

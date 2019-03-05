@@ -1,0 +1,146 @@
+				
+				cmd.Parameters.Add("@Surname", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Other_Names", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Gender", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Session", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Term", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Class", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Mathematics_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Mathematics_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Mathematics", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Mathematics_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@English_Language_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@English_Language_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@English_Language", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@English_Language_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Biology_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Biology_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Biology", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Biology_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Economics_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Economics_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Economics", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Economics_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Geography_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Geography_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Geography", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Geography_Rem", MySqlDbType.VarChar, 45);
+                         
+                cmd.Parameters.Add("@Agric_Science_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Agric_Science_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Agric_Science", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Agric_Science_rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Commerce_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Commerce_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Commerce", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Commerce_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Accounting_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Accounting_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Accounting", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Accounting_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Government_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Government_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Government", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Government_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Lit_In_Eng_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Lit_In_Eng_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Lit_In_Eng", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Lit_In_Eng_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Physics_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Physics_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Physics", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Physics_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Chemistry_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Chemistry_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Chemistry", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Chemistry_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Further_Maths_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Further_Maths_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Further_Maths", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Further_Maths_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Civic_Ed_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Civic_Ed_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Civic_Ed", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Civic_Ed_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Computer_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Computer_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Computer", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Computer_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Office_Practice_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Office_Practice_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Office_Practice", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Office_Practice_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Yoruba_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Yoruba_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Yoruba", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Yoruba_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@CRS_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@CRS_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@CRS", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@CRS_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@IRS_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@IRS_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@IRS", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@IRS_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@TD_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@TD_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@TD", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@TD_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Catering_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Catering_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Catering", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Catering_Rem", MySqlDbType.VarChar, 45);
+
+                         
+                cmd.Parameters.Add("@Animal_Hus_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Animal_Hus_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Animal_Hus", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Animal_Hus_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Paint_Decor_CA", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Paint_Decor_Exam", MySqlDbType.VarChar, 2);
+                cmd.Parameters.Add("@Paint_Decor", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Paint_Decor_Rem", MySqlDbType.VarChar, 45);
+
+                cmd.Parameters.Add("@Average", MySqlDbType.VarChar, 6);
+                cmd.Parameters.Add("@Subj_Offered", MySqlDbType.VarChar, 3);
+                cmd.Parameters.Add("@Teacher", MySqlDbType.Text);
+                cmd.Parameters.Add("@Principal", MySqlDbType.Text);
+                cmd.Parameters.Add("@Punctuality", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Attendance", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Reliability", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Politeness", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Honesty", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Self_Control", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Staff_Rship", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Student_Rship", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Initiative", MySqlDbType.VarChar, 45);
+                cmd.Parameters.Add("@Org_Ability", MySqlDbType.VarChar, 45);

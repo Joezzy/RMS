@@ -1,0 +1,127 @@
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.pdb
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.MDIParent1.resources
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Properties.Resources.resources
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.exe
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.pdb
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regjss.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultjss.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultsss.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regsss.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.resx
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.cs
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.Designer.cs
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm2.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.cache
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe.config
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDCReport.accdb
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition.resources
+C:\Users\Onalz_joseph\documents\visual studio 2010\Projects\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition2.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe.config
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.exe
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.pdb
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDCReport.accdb
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.resx
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.cs
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.Designer.cs
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.pdb
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm2.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regjss.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.MDIParent1.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Properties.Resources.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regsss.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultjss.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultsss.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition2.resources
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.cache
+H:\Nalz Okpaz Jose\StarkPro\cs#\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe.config
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.pdb
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDCReport.accdb
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.resx
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.cs
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.Designer.cs
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.pdb
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm2.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regjss.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.MDIParent1.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Properties.Resources.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regsss.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultjss.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultsss.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition2.resources
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hokpannaccie\Documents\Visual Studio 2010\Projects\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe.config
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.pdb
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDCReport.accdb
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.resx
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.cs
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\MDIParent1.Designer.cs
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\bin\Debug\GDIC Academic Report.pdb
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.export.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm2.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regjss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.MDIParent1.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Properties.Resources.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regsss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultjss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultsss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.SubPosition2.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewEntry.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewFile.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\MDIParent1.resx
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\MDIParent1.cs
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\MDIParent1.Designer.cs
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe.config
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\bin\Debug\GDIC Academic Report.pdb
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.export.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewEntry.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewEntry2.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewFile.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewFile2.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.NewSes.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.PrintForm2.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regjss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.MDIParent1.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Properties.Resources.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Regsss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultjss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Resultsss.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC_Academic_Report.Splash.resources
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.exe
+C:\Users\Hokpannaccie\Documents\GDIC Academic Report latest\GDIC Academic Report - mysql\GDIC Academic Report\obj\x86\Debug\GDIC Academic Report.pdb

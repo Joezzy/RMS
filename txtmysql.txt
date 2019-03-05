@@ -1,0 +1,154 @@
+
+
+                    con.Open();
+
+                    string CmdString = "INSERT INTO student_info (Surname, OtherNames,Gender, Class, Phone, Address, Passport, Nationality, State, LGA)
+					 VALUES(@Surname, @OtherNames,@Gender, @Class, @Phone, @Address,@Passport, @Nationality, @State, @LGA)";
+
+                    cmd = new MySqlCommand(CmdString, con);
+
+
+                    cmd.Parameters.Add("@Surname", MySqlDbType.VarChar, 45);
+
+                    cmd.Parameters.Add("@OtherNames", MySqlDbType.VarChar, 45);
+
+                    cmd.Parameters.Add("@Gender", MySqlDbType.VarChar, 10);
+
+                   //cmd.Parameters.Add("@DOB", MySqlDbType.Date);
+
+                    cmd.Parameters.Add("@Class", MySqlDbType.VarChar, 10);
+
+                    cmd.Parameters.Add("@Phone", MySqlDbType.VarChar, 24);
+
+                 
+                    cmd.Parameters.Add("@Address", MySqlDbType.Text);
+
+                    cmd.Parameters.Add("@Passport", MySqlDbType.Blob);
+
+                    cmd.Parameters.Add("@Nationality", MySqlDbType.Text);
+                    cmd.Parameters.Add("@State", MySqlDbType.Text);
+                    cmd.Parameters.Add("@LGA", MySqlDbType.Text);
+
+
+                    cmd.Parameters["@Surname"].Value = txtSurname.Text;
+
+                    cmd.Parameters["@OtherNames"].Value = txtOthernames.Text;
+
+                    cmd.Parameters["@Gender"].Value = txtGender.Text;
+
+                   // cmd.Parameters["@DOB"].Value = txtDOB.Value.Date;
+
+                    cmd.Parameters["@Class"].Value = txtClass.Text;
+
+                    cmd.Parameters["@Phone"].Value = txtPhone.Text;
+
+
+                    cmd.Parameters["@Address"].Value = txtAddress.Text;
+
+                    cmd.Parameters["@Passport"].Value = ImageData;
+
+                    cmd.Parameters["@Nationality"].Value = txtNat.Text;
+
+                    cmd.Parameters["@State"].Value = txtState.Text;
+
+                    cmd.Parameters["@LGA"].Value = txtLGA.Text;
+
+                    cmd.ExecuteNonQuery();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					" +
+                    
+                    "'" + txtSurname.Text.Trim() + "', '" + txtOthernames.Text.Trim() + "'," +
+                    "'" + txtGender.Text.Trim() + "','" + txtSession.Text.Trim() + "','" + txtTerm.Text.Trim() + "','" + txtClass.Text.Trim() + "'," +
+
+                    " '" + mathca.Text.Trim() + "','" + mathexam.Text.Trim() + "','" + mathtt.Text.Trim() + "','" + mathremark.Text.Trim() + "'," +
+                    "'" + engca.Text.Trim() + "','" + engexam.Text.Trim() + "','" + engtt.Text.Trim() + "','" + engremark.Text.Trim() + "'," +
+                    "'" + ssca.Text.Trim() + "','" + ssexam.Text.Trim() + "','" + sstt.Text.Trim() + "','" + ssremark.Text.Trim() + "'," +
+                    "'" + bsca.Text.Trim() + "','" + bsexam.Text.Trim() + "','" + bstt.Text.Trim() + "','" + bsremark.Text.Trim() + "'," +
+                    "'" + btca.Text.Trim() + "','" + btexam.Text.Trim() + "','" + bttt.Text.Trim() + "','" + btremark.Text.Trim() + "'," +
+
+                       " '" + agricca.Text.Trim() + "','" + agricexam.Text.Trim() + "','" + agrictt.Text.Trim() + "','" + agricremark.Text.Trim() + "'," +
+                    "'" + heconsca.Text.Trim() + "','" + heconsexam.Text.Trim() + "','" + heconstt.Text.Trim() + "','" + heconsremark.Text.Trim() + "'," +
+                    "'" + civicca.Text.Trim() + "','" + civicexam.Text.Trim() + "','" + civictt.Text.Trim() + "','" + civicremark.Text.Trim() + "'," +
+                    "'" + csca.Text.Trim() + "','" + csexam.Text.Trim() + "','" + cstt.Text.Trim() + "','" + csremark.Text.Trim() + "'," +
+
+                       " '" + caca.Text.Trim() + "','" + caexam.Text.Trim() + "','" + catt.Text.Trim() + "','" + caremark.Text.Trim() + "'," +
+                    "'" + bizca.Text.Trim() + "','" + bizexam.Text.Trim() + "','" + biztt.Text.Trim() + "','" + bizremark.Text.Trim() + "'," +
+                    "'" + pheca.Text.Trim() + "','" + pheexam.Text.Trim() + "','" + phett.Text.Trim() + "','" + pheremark.Text.Trim() + "'," +
+                    "'" + frenchca.Text.Trim() + "','" + frenchexam.Text.Trim() + "','" + frenchtt.Text.Trim() + "','" + frenchremark.Text.Trim() + "'," +
+                      " '" + yorca.Text.Trim() + "','" + yorexam.Text.Trim() + "','" + yortt.Text.Trim() + "','" + yorremark.Text.Trim() + "'," +
+                    "'" + crsca.Text.Trim() + "','" + crsexam.Text.Trim() + "','" + crstt.Text.Trim() + "','" + crsremark.Text.Trim() + "'," +
+                    "'" + irsca.Text.Trim() + "','" + irsexam.Text.Trim() + "','" + irstt.Text.Trim() + "','" + irsremark.Text.Trim() + "' ,"+
+                 "'" + secca.Text.Trim() + "','" + secexam.Text.Trim() + "','" + sectt.Text.Trim() + "',
+				 '" + secremark.Text.Trim() + "','" + txtAvg.Text.Trim() + "',"+
+                 "'" + txtTeacher.Text.Trim() + "','" + txtPple.Text.Trim() + "',"+
+                   "'" + txtPun.Text.Trim() + "','" + txtAtt.Text.Trim() + "'," +
+                    "'" + txtRel.Text.Trim() + "','" + txtPol.Text.Trim() + "','" + txtHon.Text.Trim() + "','" + txtSelf.Text.Trim() + "',"+
+                    "'" + txtStaff.Text.Trim() + "','" + txtStudent.Text.Trim() + "','" + txtInit.Text.Trim() + "','" + txtOrg.Text.Trim() + "'
+
+
+
+
+
+
+					@Surname,@Other_Names,@Gender,@Session,@Term,@Class," +
+
+                    "@Mathematics_CA,@Mathematics_Exam,@Mathematics,@Mathematics_Rem," +
+                    "@English_Language_CA,@English_Language_Exam,@English_Language,@English_Language_Rem," +
+                    "@Social_Studies_CA,@Social_Studies_Exam,@Social_Studies,@Social_Studies_Rem," +
+                    "@Basic_Science_CA,@Basic_Science_Exam,@Basic_Science,@Basic_Science_Rem," +
+                    "@Basic_Tech_CA,@Basic_Tech_Exam,@Basic_Tech,@Basic_Tech_Rem," +
+
+                    "@Agric_Science_CA,@Agric_Science_Exam,@Agric_Science,@Agric_Science_Rem," +
+                    "@Home_Econs_CA,@Home_Econs_Exam,@Home_Econs,@Home_Econs_Rem," +
+                    "@Civic_Ed_CA,@Civic_Ed_Exam,@Civic_Ed,@Civic_Ed_Rem," +
+                    "@Computer_CA,@Computer_Exam,@Computer,@Computer_Rem," +
+
+                    "@CCA_CA,@CCA_Exam,@CCA,@CCA_Rem," +
+                    "@Business_Studies_CA,@Business_Studies_Exam,@Business_Studies,@Business_Studies_Rem," +
+                    "@PHE_CA,@PHE_Exam,@PHE,@PHE_Rem," +
+                    "@French_CA,@French_Exam,@French,@French_Rem," +
+
+                    "@Yoruba_CA,@Yoruba_Exam,@Yoruba,@Yoruba_Rem," +
+                    "@CRS_CA,@CRS_Exam,@CRS,@CRS_Rem," +
+                    "@IRS_CA,@IRS_Exam,@IRS,@IRS_Rem," +
+                    "@Security_Studies_CA,@Security_Studies_Exam,@Security_Studies,@Security_Studies_Rem,Average," +
+                    "@Teacher
+					,@Principal,
+					@Punctuality
+					,@Attendance,
+					@Reliability,
+					@Politeness,
+					@Honesty
+					,@Self_Control
+					,@Staff_Rship,
+					@Student_Rship," +
+
+                    "@Initiative,@Org_Ability";

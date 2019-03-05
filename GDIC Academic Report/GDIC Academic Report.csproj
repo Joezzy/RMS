@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{47090030-3444-4E4E-8375-F5C3C12DA02A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GDIC_Academic_Report</RootNamespace>
+    <AssemblyName>GDIC Academic Report</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="export.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="export.Designer.cs">
+      <DependentUpon>export.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewEntry.Designer.cs">
+      <DependentUpon>NewEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewEntry2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewEntry2.Designer.cs">
+      <DependentUpon>NewEntry2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewFile.Designer.cs">
+      <DependentUpon>NewFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFile2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewFile2.Designer.cs">
+      <DependentUpon>NewFile2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSes.Designer.cs">
+      <DependentUpon>NewSes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintForm.Designer.cs">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintForm2.Designer.cs">
+      <DependentUpon>PrintForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regsss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regsss.Designer.cs">
+      <DependentUpon>Regsss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resultjss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resultjss.Designer.cs">
+      <DependentUpon>Resultjss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regjss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regjss.Designer.cs">
+      <DependentUpon>Regjss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resultsss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resultsss.designer.cs">
+      <DependentUpon>Resultsss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="export.resx">
+      <DependentUpon>export.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewEntry.resx">
+      <DependentUpon>NewEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewEntry2.resx">
+      <DependentUpon>NewEntry2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFile.resx">
+      <DependentUpon>NewFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFile2.resx">
+      <DependentUpon>NewFile2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSes.resx">
+      <DependentUpon>NewSes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintForm.resx">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintForm2.resx">
+      <DependentUpon>PrintForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regjss.resx">
+      <DependentUpon>Regjss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Regsss.resx">
+      <DependentUpon>Regsss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Resultjss.resx">
+      <DependentUpon>Resultjss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resultsss.resx">
+      <DependentUpon>Resultsss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hokpannaccie-96.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eop pix1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
